@@ -1,0 +1,11 @@
+
+Authour:DY
+
+Version of Ruby used: ruby 2.0.0p481 (2014-05-08 revision 45883) [universal.x86_64-darwin13]
+
+To test the code go to the spec directory and type: rspec -fd config_loader_spec.rb
+ 
+The top level function is: kernel.rb
+
+The code passes all tests but can be improved further if given time
+

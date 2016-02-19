@@ -1,0 +1,1 @@
+class ConfigLoadError < Exception; end
